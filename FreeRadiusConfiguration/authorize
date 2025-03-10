@@ -1,0 +1,10 @@
+#
+# This files defines the usernames and passwords for accounts
+# that can authorize and authenticate with the radius server.
+#
+
+admin   Cleartext-Password := "password"
+        Reply-Message := "Hello, %{User-Name}"
+
+username  Cleartext-Password := "password"
+        Reply-Message := "Hello, %{User-Name}"
