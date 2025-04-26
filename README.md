@@ -166,3 +166,20 @@ Security is important for wireless networks, especially since it is easy to conn
   - Indicates a list of addresses to be translated on the inside to one interface with PAT (port address translation)
 - **access-list** \[_access-list-number_\] {_deny|permit_} \[_network-number_\] \[_wildcard-mask_\]
   - Denies or permits a range of IP addresses
+
+## Copyright
+
+Copyright (C) 2025  101zh
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
